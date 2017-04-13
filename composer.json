@@ -1,5 +1,5 @@
 {
-    "name": "nknighter/swoole_http_server_bundle",
+    "name": "ql2005/swoole_http_server_bundle",
     "description": "Implements swoole php extension in symfony projects",
     "type": "library",
     "autoload": {
